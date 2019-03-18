@@ -1,4 +1,4 @@
-# Lightweight Architecture Decision Records
+# Lightweight Architecture Decision Records [<img align="right" alt="The blog of Peter Evans: Lightweight Architecture Decision Records" title="View blog post" src="https://peterevans.dev/img/blog-published-badge.svg">](https://peterevans.dev/posts/lightweight-architecture-decision-records/)
 
 >__*"Lightweight Architecture Decision Records is a technique for capturing important architectural decisions along with their context and consequences."*__
 
