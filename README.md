@@ -51,7 +51,7 @@ See [this example template](0001-ladr-template.md).
 ## Real-world example
 
 This is a real-world example of using Lightweight Architecture Decision Records by [GOV.UK](https://www.gov.uk/) for their migration to AWS.
-https://github.com/alphagov/govuk-aws/tree/master/doc/architecture/decisions
+https://github.com/alphagov/govuk-aws/tree/master/docs/architecture/decisions
 
 
 ## License
